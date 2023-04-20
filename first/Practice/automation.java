@@ -1,14 +1,14 @@
-class Arithmatic {
+public class Arithmatic {
 
-     public static void main(String[] args) {
-        
+    public static void main(String[] args) {
+
         int a = 10;
         int b = 20;
-        if (a==0);
+        if (a == 0)
+            ;
         {
-            System.out.println("sum of two numbers is = "+(a+b));
+            System.out.println("sum of two numbers is = " + (a + b));
         }
-        
-           
-    }   
+
+    }
 }
