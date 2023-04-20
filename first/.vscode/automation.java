@@ -4,6 +4,11 @@ class Arithmatic {
         
         int a = 10;
         int b = 20;
-        System.out.println("sum of two numbers is ="+(a+b));
+        if (a==0);
+        {
+            System.out.println("sum of two numbers is = "+(a+b));
+        }
+        
+           
     }   
 }
