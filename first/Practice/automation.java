@@ -1,4 +1,4 @@
-public class arithmatic {
+class arithmatic {
 
     public static void main(String[] args) {
 
