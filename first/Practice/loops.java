@@ -9,6 +9,11 @@ public class loops {
             number += 2;
 
         }
+        int num = 20;
+        do {
+            System.out.println("number is = " + number);
+            num += 2;
+        } while (num <= 10);
 
     }
 
