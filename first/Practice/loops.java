@@ -17,6 +17,9 @@ public class loops {
 
         for (int digits = 1; digits <= 10; digits++) {
 
+            if (digits == 5) {
+                break;
+            }
             System.out.println("numbers in for loops are = " + digits);
         }
 
