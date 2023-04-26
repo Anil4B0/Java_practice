@@ -15,6 +15,8 @@ public class arrays {
             System.out.println(i);
         }
 
+        System.out.println("Done");
+
     }
 
 }
