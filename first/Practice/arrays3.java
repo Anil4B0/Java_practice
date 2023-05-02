@@ -2,7 +2,7 @@ public class arrays3 {
 
     public static void main(String[] args) {
 
-        int a[][] = { { 10, 20 }, { 30, 40 }, { 50, 60 } };
+        int a[][] = { { 10, 20, 31 }, { 30, 40, 41 }, { 50, 60, 61 } };
 
         /*
          * a[0][0] = 10;
@@ -16,7 +16,7 @@ public class arrays3 {
         for (int i[] : a) {
             for (int j : i) {
 
-                System.out.print("print " + j + " ");
+                System.out.print(j + " ");
             }
 
             System.out.println("  ");
