@@ -16,12 +16,13 @@ public class arrays3 {
         for (int i[] : a) {
             for (int j : i) {
 
-                System.out.print(j + " ");
+                System.out.print(j + "   ");
             }
 
             System.out.println("  ");
 
         }
+        System.out.println(" done ");
 
     }
 
