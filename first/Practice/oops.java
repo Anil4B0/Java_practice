@@ -12,6 +12,8 @@ public class oops {
 
     public static void main(String[] args) {
 
+        // initializing values using direct objects
+
         oops student1 = new oops();
         student1.studentname = "Anil";
         student1.stno = 10;
