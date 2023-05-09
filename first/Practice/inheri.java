@@ -22,6 +22,16 @@ class inheri2 extends inheri {
 
 }
 
+class inheri4 extends inheri2 {
+
+    void main2() {
+
+        System.out.println(a + b);
+
+    }
+
+}
+
 class inheri3 {
 
     public static void main(String[] args) {
