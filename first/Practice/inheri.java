@@ -22,24 +22,15 @@ class inheri2 extends inheri {
 
 }
 
-class inheri4 extends inheri2 {
+class Inheri3{
+    public static void main(String[] args){
 
-    void main2() {
-
-        System.out.println(a + b);
-
+        inheri num = new inheri();
+        num.a = 100;
+        num.b = 200;
+        num.dis();
     }
+
 
 }
 
-class inheri3 {
-
-    public static void main(String[] args) {
-        inheri2 obj = new inheri2();
-        obj.a = 200;
-        obj.b = 300;
-        obj.dis();
-
-    }
-
-}
